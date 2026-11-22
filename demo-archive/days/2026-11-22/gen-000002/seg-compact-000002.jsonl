@@ -1,0 +1,4 @@
+{"_meta":{"count":3,"day":"2026-11-22","gen":2,"kind":"compact","req":"req-c01","sources":[{"count":1,"file":"seg-000001.jsonl","sha256":"e1e891f55aea52d53bdc8421f696462aa4f85cd55223f23b94db9f26181a4de9"},{"count":1,"file":"seg-000002.jsonl","sha256":"f744c8390bc9794a1b6c51a28bae64dd3171ffbb3ecda5393067c56daedaca2a"},{"count":1,"file":"seg-000003.jsonl","sha256":"a444adf9a01f6c7b86ee3a83da1af8f28fa7cbb6260087cf8864f308fc8eeec7"}]}}
+{"entity":"alpha","id":"e-001","prev":null,"raw":"{\"v\": 7}","seq":10,"source":"lab-obs-1"}
+{"entity":"alpha","id":"e-003","prev":"e-001","raw":"{\"v\": 9}","seq":20,"source":"lab-obs-1"}
+{"entity":"alpha","id":"e-002","prev":"e-001","raw":"{\"v\": null}","seq":30,"source":"lab-obs-1"}
